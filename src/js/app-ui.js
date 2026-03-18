@@ -1,7 +1,7 @@
 const icons = [
-    "../../assets/img/p1.png", "../../assets/img/p2.png", "../../assets/img/p3.png", "../../assets/img/p4.png", "../../assets/img/p5.png",
-    "../../assets/img/p6.png", "../../assets/img/p7.png", "../../assets/img/p8.png", "../../assets/img/p9.png", "../../assets/img/p10.png",
-    "../../assets/img/p11.png", "../../assets/img/p12.png", "../../assets/img/p13.png"
+    "./assets/img/p1.png", "./assets/img/p2.png", "./assets/img/p3.png", "./assets/img/p4.png", "./assets/img/p5.png",
+    "./assets/img/p6.png", "./assets/img/p7.png", "./assets/img/p8.png", "./assets/img/p9.png", "./assets/img/p10.png",
+    "./assets/img/p11.png", "./assets/img/p12.png", "./assets/img/p13.png"
 ];
 
 // Basit
