@@ -2,6 +2,8 @@
 
 This is a digital support and appreciation project created with love for our teacher, **Sunay Dinçer**. The project allows students and well-wishers to send virtual flowers and leave heartfelt notes in a shared digital garden to show their support.
 
+![Project Screenshot](screenshot.png)
+
 ## 🌟 Features
 
 - **Virtual Garden:** A beautiful visual representation of appreciation.
